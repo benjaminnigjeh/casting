@@ -1,0 +1,7 @@
+-e .
+
+fisher_py
+numpy
+pandas
+scikit-learn
+setuptools
